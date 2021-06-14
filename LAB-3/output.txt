@@ -1,0 +1,19 @@
+FOR INPUT :
+
+7
+0 1 1 0 0 0 1
+1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+0 0 0 0 1 1 0 
+0 0 0 1 0 0 0 
+0 0 0 1 0 0 0
+1 0 0 0 0 0 0 
+3
+
+
+OUTPUT :
+
+The nodes reachable are: 3 4 5 
+Time taken for bfs is 0.00000
+The number of connected components in the graph is : 2
+Time taken for dfs is 0.00000
