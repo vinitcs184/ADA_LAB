@@ -1,0 +1,10 @@
+Time taken for n = 100 is 0.00000s
+Time taken for n = 500 is 0.00000s
+Time taken for n = 1000 is 0.00000s
+Time taken for n = 5000 is 0.00100s
+Time taken for n = 7500 is 0.00100s
+Time taken for n = 10000 is 0.00100s
+Time taken for n = 25000 is 0.00300s
+Time taken for n = 50000 is 0.00800s
+Time taken for n = 75000 is 0.01000s
+Time taken for n = 100000 is 0.01400s
