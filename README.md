@@ -1,3 +1,2 @@
 # ADA_LAB
-# Yogesh T  -  1BM19CS188
-
+# VINIT AMAR  1BM19CS184
